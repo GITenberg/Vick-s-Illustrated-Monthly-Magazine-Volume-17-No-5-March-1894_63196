@@ -1,5 +1,8 @@
 _repo: Vick-s-Illustrated-Monthly-Magazine-Volume-17-No-5-March-1894_63196
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63196-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52324'
     url: http://www.gutenberg.org/2009/agents/52324
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63196#Vick-s-Illustrated-Monthly-Magazine-Volume-17-No-5-March-1894
 gutenberg_issued: '2020-09-13'
 gutenberg_type: Text
 identifiers:
